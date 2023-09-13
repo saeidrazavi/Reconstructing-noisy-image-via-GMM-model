@@ -52,3 +52,13 @@ of $p_{\boldsymbol{Z|Y,K}}(z|y, k)$, which in case of a normal distribution, is 
 
 ## Results 
 Below, you can see the results of our GMM model:
+
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/saeidrazavi/Reconstructing-noisy-image-via-GMM-model/assets/67091916/3b8c0c0d-769f-484c-94c1-cb5c1d7de2de" width="900" title="Results">
+</p>
